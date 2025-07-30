@@ -208,10 +208,6 @@ print_r($randomNames);
 - **Relevance** - Names that are actually used
 - **Completeness** - Include variations and forms
 
-## 📝 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - **Turkish Language Community** - For preserving and promoting Turkish names
